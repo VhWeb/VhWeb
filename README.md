@@ -26,11 +26,11 @@ I am looking for a company willing to offer me a placement among their developer
 <!-- Beside’s programming, I enjoy sport,✈️, watching films📽 and playing the guitar🎸. -->
 
   
-📫 How to reach me: golovanov.mbg@gmail.com;
+📫 E-mail: golovanov.mbg@gmail.com;
 <br />
 📝[Resume](https://vhweb.github.io/files/CV_Holovanov_Valeriy.pdf)
 
-**Languages and Tools:**  
+**My skills:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
