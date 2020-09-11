@@ -28,7 +28,7 @@ I am looking for a company willing to offer me a placement among their developer
 <!-- Beside’s programming, I enjoy sport,✈️, watching films📽 and playing the guitar🎸. -->
 
   
-📫 How to reach me: dakar2016@gmail.com;
+📫 How to reach me: golovanov.mbg@gmail.com;
 <!-- 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing) -->
 
 **Languages and Tools:**  
