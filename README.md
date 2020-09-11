@@ -27,7 +27,6 @@ I am looking for a company willing to offer me a placement among their developer
 <br />
 <!-- Beside’s programming, I enjoy sport,✈️, watching films📽 and playing the guitar🎸. -->
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 📫 How to reach me: dakar2016@gmail.com;
 <!-- 📝[Resume](https://drive.google.com/file/d/1JAKlJnjnSnDRXmVXeEDU0oN1gyzTk8NN/view?usp=sharing) -->
