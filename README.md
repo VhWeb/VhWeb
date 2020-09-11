@@ -19,7 +19,7 @@
 <br/>
 <br/> -->
 
-<background-image style="position: absolute; z-index: -1; width: 100%" src="https://thumbs.gfycat.com/EveryOptimisticGemsbok-size_restricted.gif" />
+<image style="position: absolute; z-index: -1; width: 100%" src="https://thumbs.gfycat.com/EveryOptimisticGemsbok-size_restricted.gif" />
 
 My name is [Valeriy Holovanov](https://vhweb.github.io/) and I’m a Front-end developer.
 <br />
