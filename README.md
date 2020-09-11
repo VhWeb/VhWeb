@@ -16,13 +16,14 @@ I am looking for a company willing to offer me a placement among their developer
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://img1.freepng.ru/20180629/jtk/kisspng-javascript-programmer-programming-language-compute-node-js-5b35fcbc7084c2.4877644915302647644609.jpg"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jquery/jquery.png"></code>
+<code><img height="20" src="https://c7.hotpng.com/preview/662/163/583/web-development-jquery-ui-javascript-computer-icons-jqlogo.jpg"></code>
 <code><img height="20" src="https://e7.pngegg.com/pngimages/359/1019/png-clipart-pug-template-processor-html-node-js-npm-technician-cartoon-template-mammal.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/less/less.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png"></code>
 <code><img height="20" src="https://www.electriciens-sans-frontieres.org/web/app/themes/esf/node_modules/gulp-notify/assets/gulp-error.png"></code>
+<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png"></code>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=vhweb&show_icons=true&hide_border=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vhweb&layout=compact)](https://github.com/vhweb/github-readme-stats)
