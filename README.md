@@ -27,6 +27,7 @@ I am looking for a company willing to offer me a placement among their developer
 
   
 📫 How to reach me: golovanov.mbg@gmail.com;
+<br />
 📝[Resume](https://vhweb.github.io/files/CV_Holovanov_Valeriy.pdf)
 
 **Languages and Tools:**  
