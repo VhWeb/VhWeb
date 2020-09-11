@@ -1,24 +1,5 @@
 ### Hi there 👋
 
-<!-- <a href="https://t.me/vladyslav_vasylenko">
-  <img align="left" alt="Valeriy Holovanov | Telegram" width="22px" src="https://www.svgrepo.com/show/271091/telegram.svg" />
-</a>
-<a href="https://www.linkedin.com/in/levi09/">
-  <img align="left" alt="Valeriy Holovanov | LinkedIn" width="22px" src="https://www.svgrepo.com/show/157006/linkedin.svg" />
-</a>
-<a href="https://twitter.com/vasylenko__">
-  <img align="left" alt="Valeriy Holovanov | Twitter" width="22px" src="https://www.svgrepo.com/show/183608/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/vladvasylenko_">
-  <img align="left" alt="Valeriy Holovanov | Instagram" width="22px" src="https://www.svgrepo.com/show/111199/instagram.svg" />
-</a>
-<a href="https://www.codewars.com/users/richboyscrytoo">
-  <img align="left" alt="Valeriy Holovanov | Codewars" width="22px" src="https://raw.githubusercontent.com/codewars/branding/1ff0d44db52ac4a5e3a1c43277dc35f228eb6983/logo.svg" />
-</a>
-
-<br/>
-<br/> -->
-
 My name is [Valeriy Holovanov](https://vhweb.github.io/) and I’m a Front-end developer.
 <br />
 I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front-end developer.
@@ -26,9 +7,9 @@ I am looking for a company willing to offer me a placement among their developer
 <!-- Beside’s programming, I enjoy sport,✈️, watching films📽 and playing the guitar🎸. -->
 
   
-📫 E-mail: golovanov.mbg@gmail.com;
+✉️ E-mail: golovanov.mbg@gmail.com;
 <br />
-📝[Resume](https://vhweb.github.io/files/CV_Holovanov_Valeriy.pdf)
+📄[Resume](https://vhweb.github.io/files/CV_Holovanov_Valeriy.pdf)
 
 **My skills:**  
 
