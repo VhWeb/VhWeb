@@ -4,7 +4,6 @@ My name is [Valeriy Holovanov](https://vhweb.github.io/) and I’m a Front-end d
 <br />
 I am looking for a company willing to offer me a placement among their developers. In return, I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front-end developer.
 <br />
-<!-- Beside’s programming, I enjoy sport,✈️, watching films📽 and playing the guitar🎸. -->
 
   
 ✉️ E-mail: golovanov.mbg@gmail.com;
