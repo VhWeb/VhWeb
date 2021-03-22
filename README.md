@@ -8,7 +8,7 @@ I am looking for a company willing to offer me a placement among their developer
   
 ✉️ E-mail: golovanov.mbg@gmail.com;
 <br />
-📄&nbsp;[Resume](https://vhweb.github.io/files/CV_Holovanov_Valeriy.pdf)
+📄&nbsp;[Resume](https://vhweb.github.io/files/CV_Holovanov_Valerii.pdf)
 
 **My skills:**  
 
